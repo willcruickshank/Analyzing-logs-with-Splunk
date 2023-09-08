@@ -1,2 +1,1 @@
-# Analyzing-logs-with-Splunk-
-Utilized Splunk to analyze simulated attack logs aswell as logs that represent "regular" activity.
+Utilized Splunk to analyze simulated attack logs aswell as logs that represent "regular" activity. Created reports, alerts, and dashboards on Splunk for straight forward monitoring. In addition, installed add-on "Circlepack Viz" for simple and effective data visualisation. From analyzing these logs many different attacks came to light ranging from bruteforce attacks to possible DDos attacks. Once these vulnerabilites were indentified, mitigation suggestions such as implementing a web applicaition firewall (WAF) or account lockout policies were proposed.
